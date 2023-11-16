@@ -1,6 +1,6 @@
 # Automatically-Check-your-Grades
 Automatically sending you a notification if a new grade is out.
-
+https://youtu.be/pCWFVtIoKbM -> Tutorial in Arabic. Step by Step
 INSTALLING VISUAL STUDIO CODE AND NODE JS AND puppeteer LIBRARY IS REQUIRED.
 (to install puppeteer packlages to the folder, in the terminal type " npm i puppeteer).
 
