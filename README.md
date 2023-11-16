@@ -1,6 +1,10 @@
 # Automatically-Check-your-Grades
 Automatically sending you a notification if a new grade is out.
 
+INSTALLING VISUAL STUDIO CODE AND NODE JS AND puppeteer LIBRARY IS REQUIRED.
+(to install puppeteer packlages to the folder, in the terminal type " npm i puppeteer).
+
+
 A brief introduction before explaining, 
 1.	This is mainly done for GIU students, but can also be used by others.
 
