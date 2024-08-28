@@ -1,4 +1,7 @@
 # Automatically-Check-your-Grades
+
+# REMOVED DUE TO DDOS THREAT!!
+
 Automatically sending you a notification if a new grade is out.
 https://youtu.be/pCWFVtIoKbM -> Tutorial in Arabic. Step by Step
 INSTALLING VISUAL STUDIO CODE AND NODE JS AND puppeteer LIBRARY IS REQUIRED.
