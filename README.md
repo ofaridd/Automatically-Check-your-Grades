@@ -2,6 +2,7 @@
 ## 📚 Automatically Check Your Grades
 
 This project automates the process of checking for new grades on a university portal and sends notifications when updates are detected. It uses **Puppeteer** to simulate browser actions and scrape data from the university website.
+Source code was removed for seurity concerns.
 
 ---
 
@@ -68,13 +69,6 @@ This mode handles a more complex flow:
 - Smart detection of new grades
 - Handles both simple and complex grade views
 - Avoids duplicate notifications
-
-
-
-
-
-
-INSTALLING VISUAL STUDIO CODE AND NODE JS AND puppeteer LIBRARY IS REQUIRED.
 
 
 
